@@ -28,3 +28,4 @@ elif percentage >= 60:
     print("Risk Level: Medium")
 else:
     print("Risk Level: High")
+
