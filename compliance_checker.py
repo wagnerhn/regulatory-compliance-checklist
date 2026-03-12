@@ -20,7 +20,7 @@ for question in questions:
 total = len(questions)
 percentage = (score / total) * 100
 
-print("\nCompliance Score:", round(percentage,2), "%")
+print("\nCompliance Score:", round(percentage, 2), "%")
 
 if percentage >= 80:
     print("Risk Level: Low")
@@ -28,4 +28,3 @@ elif percentage >= 60:
     print("Risk Level: Medium")
 else:
     print("Risk Level: High")
-
