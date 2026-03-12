@@ -1,0 +1,6 @@
+Is segregation of duties implemented?
+Are regulatory requirements documented?
+Are compliance policies formally approved?
+Is there periodic control testing?
+Are compliance responsibilities clearly assigned?
+Is regulatory monitoring performed regularly?
